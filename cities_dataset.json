@@ -1,0 +1,1602 @@
+[
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Japan"
+    ],
+    "fun_facts": [
+      "Tokyo has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Tokyo has hosted several international events and festivals",
+      "The public transportation system in Tokyo is one of the best in Japan"
+    ]
+  },
+  {
+    "city": "New York",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "New York has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "New York has hosted several international events and festivals",
+      "The public transportation system in New York is one of the best in USA"
+    ]
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in United Kingdom"
+    ],
+    "fun_facts": [
+      "London has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "London has hosted several international events and festivals",
+      "The public transportation system in London is one of the best in United Kingdom"
+    ]
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in France"
+    ],
+    "fun_facts": [
+      "Paris has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Paris has hosted several international events and festivals",
+      "The public transportation system in Paris is one of the best in France"
+    ]
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Germany"
+    ],
+    "fun_facts": [
+      "Berlin has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Berlin has hosted several international events and festivals",
+      "The public transportation system in Berlin is one of the best in Germany"
+    ]
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Spain"
+    ],
+    "fun_facts": [
+      "Madrid has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Madrid has hosted several international events and festivals",
+      "The public transportation system in Madrid is one of the best in Spain"
+    ]
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Italy"
+    ],
+    "fun_facts": [
+      "Rome has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Rome has hosted several international events and festivals",
+      "The public transportation system in Rome is one of the best in Italy"
+    ]
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in China"
+    ],
+    "fun_facts": [
+      "Beijing has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Beijing has hosted several international events and festivals",
+      "The public transportation system in Beijing is one of the best in China"
+    ]
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Australia"
+    ],
+    "fun_facts": [
+      "Sydney has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Sydney has hosted several international events and festivals",
+      "The public transportation system in Sydney is one of the best in Australia"
+    ]
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Russia"
+    ],
+    "fun_facts": [
+      "Moscow has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Moscow has hosted several international events and festivals",
+      "The public transportation system in Moscow is one of the best in Russia"
+    ]
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Canada"
+    ],
+    "fun_facts": [
+      "Toronto has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Toronto has hosted several international events and festivals",
+      "The public transportation system in Toronto is one of the best in Canada"
+    ]
+  },
+  {
+    "city": "S\u00e3o Paulo",
+    "country": "Brazil",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Brazil"
+    ],
+    "fun_facts": [
+      "S\u00e3o Paulo has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "S\u00e3o Paulo has hosted several international events and festivals",
+      "The public transportation system in S\u00e3o Paulo is one of the best in Brazil"
+    ]
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Argentina"
+    ],
+    "fun_facts": [
+      "Buenos Aires has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Buenos Aires has hosted several international events and festivals",
+      "The public transportation system in Buenos Aires is one of the best in Argentina"
+    ]
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Egypt"
+    ],
+    "fun_facts": [
+      "Cairo has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Cairo has hosted several international events and festivals",
+      "The public transportation system in Cairo is one of the best in Egypt"
+    ]
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Thailand"
+    ],
+    "fun_facts": [
+      "Bangkok has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Bangkok has hosted several international events and festivals",
+      "The public transportation system in Bangkok is one of the best in Thailand"
+    ]
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in South Korea"
+    ],
+    "fun_facts": [
+      "Seoul has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Seoul has hosted several international events and festivals",
+      "The public transportation system in Seoul is one of the best in South Korea"
+    ]
+  },
+  {
+    "city": "Dubai",
+    "country": "UAE",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in UAE"
+    ],
+    "fun_facts": [
+      "Dubai has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Dubai has hosted several international events and festivals",
+      "The public transportation system in Dubai is one of the best in UAE"
+    ]
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Mexico"
+    ],
+    "fun_facts": [
+      "Mexico City has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Mexico City has hosted several international events and festivals",
+      "The public transportation system in Mexico City is one of the best in Mexico"
+    ]
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Turkey"
+    ],
+    "fun_facts": [
+      "Istanbul has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Istanbul has hosted several international events and festivals",
+      "The public transportation system in Istanbul is one of the best in Turkey"
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in India"
+    ],
+    "fun_facts": [
+      "Mumbai has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Mumbai has hosted several international events and festivals",
+      "The public transportation system in Mumbai is one of the best in India"
+    ]
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Indonesia"
+    ],
+    "fun_facts": [
+      "Jakarta has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Jakarta has hosted several international events and festivals",
+      "The public transportation system in Jakarta is one of the best in Indonesia"
+    ]
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in South Africa"
+    ],
+    "fun_facts": [
+      "Cape Town has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Cape Town has hosted several international events and festivals",
+      "The public transportation system in Cape Town is one of the best in South Africa"
+    ]
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Singapore"
+    ],
+    "fun_facts": [
+      "Singapore has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Singapore has hosted several international events and festivals",
+      "The public transportation system in Singapore is one of the best in Singapore"
+    ]
+  },
+  {
+    "city": "Hong Kong",
+    "country": "China",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in China"
+    ],
+    "fun_facts": [
+      "Hong Kong has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Hong Kong has hosted several international events and festivals",
+      "The public transportation system in Hong Kong is one of the best in China"
+    ]
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Malaysia"
+    ],
+    "fun_facts": [
+      "Kuala Lumpur has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Kuala Lumpur has hosted several international events and festivals",
+      "The public transportation system in Kuala Lumpur is one of the best in Malaysia"
+    ]
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Portugal"
+    ],
+    "fun_facts": [
+      "Lisbon has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Lisbon has hosted several international events and festivals",
+      "The public transportation system in Lisbon is one of the best in Portugal"
+    ]
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Greece"
+    ],
+    "fun_facts": [
+      "Athens has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Athens has hosted several international events and festivals",
+      "The public transportation system in Athens is one of the best in Greece"
+    ]
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Finland"
+    ],
+    "fun_facts": [
+      "Helsinki has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Helsinki has hosted several international events and festivals",
+      "The public transportation system in Helsinki is one of the best in Finland"
+    ]
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Sweden"
+    ],
+    "fun_facts": [
+      "Stockholm has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Stockholm has hosted several international events and festivals",
+      "The public transportation system in Stockholm is one of the best in Sweden"
+    ]
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Norway"
+    ],
+    "fun_facts": [
+      "Oslo has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Oslo has hosted several international events and festivals",
+      "The public transportation system in Oslo is one of the best in Norway"
+    ]
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Denmark"
+    ],
+    "fun_facts": [
+      "Copenhagen has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Copenhagen has hosted several international events and festivals",
+      "The public transportation system in Copenhagen is one of the best in Denmark"
+    ]
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Austria"
+    ],
+    "fun_facts": [
+      "Vienna has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Vienna has hosted several international events and festivals",
+      "The public transportation system in Vienna is one of the best in Austria"
+    ]
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Belgium"
+    ],
+    "fun_facts": [
+      "Brussels has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Brussels has hosted several international events and festivals",
+      "The public transportation system in Brussels is one of the best in Belgium"
+    ]
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Netherlands"
+    ],
+    "fun_facts": [
+      "Amsterdam has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Amsterdam has hosted several international events and festivals",
+      "The public transportation system in Amsterdam is one of the best in Netherlands"
+    ]
+  },
+  {
+    "city": "Warsaw",
+    "country": "Poland",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Poland"
+    ],
+    "fun_facts": [
+      "Warsaw has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Warsaw has hosted several international events and festivals",
+      "The public transportation system in Warsaw is one of the best in Poland"
+    ]
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Czech Republic"
+    ],
+    "fun_facts": [
+      "Prague has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Prague has hosted several international events and festivals",
+      "The public transportation system in Prague is one of the best in Czech Republic"
+    ]
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Hungary"
+    ],
+    "fun_facts": [
+      "Budapest has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Budapest has hosted several international events and festivals",
+      "The public transportation system in Budapest is one of the best in Hungary"
+    ]
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Ireland"
+    ],
+    "fun_facts": [
+      "Dublin has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Dublin has hosted several international events and festivals",
+      "The public transportation system in Dublin is one of the best in Ireland"
+    ]
+  },
+  {
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in United Kingdom"
+    ],
+    "fun_facts": [
+      "Edinburgh has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Edinburgh has hosted several international events and festivals",
+      "The public transportation system in Edinburgh is one of the best in United Kingdom"
+    ]
+  },
+  {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Switzerland"
+    ],
+    "fun_facts": [
+      "Zurich has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Zurich has hosted several international events and festivals",
+      "The public transportation system in Zurich is one of the best in Switzerland"
+    ]
+  },
+  {
+    "city": "Geneva",
+    "country": "Switzerland",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Switzerland"
+    ],
+    "fun_facts": [
+      "Geneva has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Geneva has hosted several international events and festivals",
+      "The public transportation system in Geneva is one of the best in Switzerland"
+    ]
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Vietnam"
+    ],
+    "fun_facts": [
+      "Hanoi has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Hanoi has hosted several international events and festivals",
+      "The public transportation system in Hanoi is one of the best in Vietnam"
+    ]
+  },
+  {
+    "city": "Manila",
+    "country": "Philippines",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Philippines"
+    ],
+    "fun_facts": [
+      "Manila has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Manila has hosted several international events and festivals",
+      "The public transportation system in Manila is one of the best in Philippines"
+    ]
+  },
+  {
+    "city": "Lima",
+    "country": "Peru",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Peru"
+    ],
+    "fun_facts": [
+      "Lima has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Lima has hosted several international events and festivals",
+      "The public transportation system in Lima is one of the best in Peru"
+    ]
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Chile"
+    ],
+    "fun_facts": [
+      "Santiago has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Santiago has hosted several international events and festivals",
+      "The public transportation system in Santiago is one of the best in Chile"
+    ]
+  },
+  {
+    "city": "Bogot\u00e1",
+    "country": "Colombia",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Colombia"
+    ],
+    "fun_facts": [
+      "Bogot\u00e1 has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Bogot\u00e1 has hosted several international events and festivals",
+      "The public transportation system in Bogot\u00e1 is one of the best in Colombia"
+    ]
+  },
+  {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Saudi Arabia"
+    ],
+    "fun_facts": [
+      "Riyadh has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Riyadh has hosted several international events and festivals",
+      "The public transportation system in Riyadh is one of the best in Saudi Arabia"
+    ]
+  },
+  {
+    "city": "Doha",
+    "country": "Qatar",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Qatar"
+    ],
+    "fun_facts": [
+      "Doha has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Doha has hosted several international events and festivals",
+      "The public transportation system in Doha is one of the best in Qatar"
+    ]
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in New Zealand"
+    ],
+    "fun_facts": [
+      "Auckland has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Auckland has hosted several international events and festivals",
+      "The public transportation system in Auckland is one of the best in New Zealand"
+    ]
+  },
+  {
+    "city": "Wellington",
+    "country": "New Zealand",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in New Zealand"
+    ],
+    "fun_facts": [
+      "Wellington has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Wellington has hosted several international events and festivals",
+      "The public transportation system in Wellington is one of the best in New Zealand"
+    ]
+  },
+  {
+    "city": "Montreal",
+    "country": "Canada",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Canada"
+    ],
+    "fun_facts": [
+      "Montreal has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Montreal has hosted several international events and festivals",
+      "The public transportation system in Montreal is one of the best in Canada"
+    ]
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in Canada"
+    ],
+    "fun_facts": [
+      "Vancouver has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Vancouver has hosted several international events and festivals",
+      "The public transportation system in Vancouver is one of the best in Canada"
+    ]
+  },
+  {
+    "city": "Los Angeles",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Los Angeles has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Los Angeles has hosted several international events and festivals",
+      "The public transportation system in Los Angeles is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Chicago",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Chicago has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Chicago has hosted several international events and festivals",
+      "The public transportation system in Chicago is one of the best in USA"
+    ]
+  },
+  {
+    "city": "San Francisco",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "San Francisco has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "San Francisco has hosted several international events and festivals",
+      "The public transportation system in San Francisco is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Houston",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Houston has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Houston has hosted several international events and festivals",
+      "The public transportation system in Houston is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Miami",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Miami has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Miami has hosted several international events and festivals",
+      "The public transportation system in Miami is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Seattle",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Seattle has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Seattle has hosted several international events and festivals",
+      "The public transportation system in Seattle is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Boston",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Boston has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Boston has hosted several international events and festivals",
+      "The public transportation system in Boston is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Dallas",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Dallas has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Dallas has hosted several international events and festivals",
+      "The public transportation system in Dallas is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Philadelphia",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Philadelphia has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Philadelphia has hosted several international events and festivals",
+      "The public transportation system in Philadelphia is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Atlanta",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Atlanta has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Atlanta has hosted several international events and festivals",
+      "The public transportation system in Atlanta is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Phoenix",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Phoenix has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Phoenix has hosted several international events and festivals",
+      "The public transportation system in Phoenix is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Denver",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Denver has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Denver has hosted several international events and festivals",
+      "The public transportation system in Denver is one of the best in USA"
+    ]
+  },
+  {
+    "city": "San Diego",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "San Diego has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "San Diego has hosted several international events and festivals",
+      "The public transportation system in San Diego is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Detroit",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Detroit has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Detroit has hosted several international events and festivals",
+      "The public transportation system in Detroit is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Minneapolis",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Minneapolis has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Minneapolis has hosted several international events and festivals",
+      "The public transportation system in Minneapolis is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Portland",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Portland has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Portland has hosted several international events and festivals",
+      "The public transportation system in Portland is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Las Vegas",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Las Vegas has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Las Vegas has hosted several international events and festivals",
+      "The public transportation system in Las Vegas is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Nashville",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Nashville has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Nashville has hosted several international events and festivals",
+      "The public transportation system in Nashville is one of the best in USA"
+    ]
+  },
+  {
+    "city": "New Orleans",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "New Orleans has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "New Orleans has hosted several international events and festivals",
+      "The public transportation system in New Orleans is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Charlotte",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Charlotte has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Charlotte has hosted several international events and festivals",
+      "The public transportation system in Charlotte is one of the best in USA"
+    ]
+  },
+  {
+    "city": "San Antonio",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "San Antonio has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "San Antonio has hosted several international events and festivals",
+      "The public transportation system in San Antonio is one of the best in USA"
+    ]
+  },
+  {
+    "city": "St. Louis",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "St. Louis has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "St. Louis has hosted several international events and festivals",
+      "The public transportation system in St. Louis is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Tampa",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Tampa has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Tampa has hosted several international events and festivals",
+      "The public transportation system in Tampa is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Baltimore",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Baltimore has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Baltimore has hosted several international events and festivals",
+      "The public transportation system in Baltimore is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Indianapolis",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Indianapolis has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Indianapolis has hosted several international events and festivals",
+      "The public transportation system in Indianapolis is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Kansas City",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Kansas City has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Kansas City has hosted several international events and festivals",
+      "The public transportation system in Kansas City is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Columbus",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Columbus has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Columbus has hosted several international events and festivals",
+      "The public transportation system in Columbus is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Cleveland",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Cleveland has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Cleveland has hosted several international events and festivals",
+      "The public transportation system in Cleveland is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Pittsburgh",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Pittsburgh has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Pittsburgh has hosted several international events and festivals",
+      "The public transportation system in Pittsburgh is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Austin",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Austin has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Austin has hosted several international events and festivals",
+      "The public transportation system in Austin is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Orlando",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Orlando has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Orlando has hosted several international events and festivals",
+      "The public transportation system in Orlando is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Sacramento",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Sacramento has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Sacramento has hosted several international events and festivals",
+      "The public transportation system in Sacramento is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Honolulu",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Honolulu has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Honolulu has hosted several international events and festivals",
+      "The public transportation system in Honolulu is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Milwaukee",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Milwaukee has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Milwaukee has hosted several international events and festivals",
+      "The public transportation system in Milwaukee is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Louisville",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Louisville has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Louisville has hosted several international events and festivals",
+      "The public transportation system in Louisville is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Memphis",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Memphis has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Memphis has hosted several international events and festivals",
+      "The public transportation system in Memphis is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Richmond",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Richmond has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Richmond has hosted several international events and festivals",
+      "The public transportation system in Richmond is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Buffalo",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Buffalo has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Buffalo has hosted several international events and festivals",
+      "The public transportation system in Buffalo is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Birmingham",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Birmingham has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Birmingham has hosted several international events and festivals",
+      "The public transportation system in Birmingham is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Raleigh",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Raleigh has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Raleigh has hosted several international events and festivals",
+      "The public transportation system in Raleigh is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Oklahoma City",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Oklahoma City has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Oklahoma City has hosted several international events and festivals",
+      "The public transportation system in Oklahoma City is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Albuquerque",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Albuquerque has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Albuquerque has hosted several international events and festivals",
+      "The public transportation system in Albuquerque is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Salt Lake City",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Salt Lake City has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Salt Lake City has hosted several international events and festivals",
+      "The public transportation system in Salt Lake City is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Anchorage",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Anchorage has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Anchorage has hosted several international events and festivals",
+      "The public transportation system in Anchorage is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Boise",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Boise has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Boise has hosted several international events and festivals",
+      "The public transportation system in Boise is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Des Moines",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Des Moines has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Des Moines has hosted several international events and festivals",
+      "The public transportation system in Des Moines is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Omaha",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Omaha has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Omaha has hosted several international events and festivals",
+      "The public transportation system in Omaha is one of the best in USA"
+    ]
+  },
+  {
+    "city": "Lexington",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its historical landmarks and iconic sites",
+      "It is a major cultural and economic hub in USA"
+    ],
+    "fun_facts": [
+      "Lexington has been a key center for trade and innovation for centuries",
+      "The city is known for its vibrant food scene and diverse cuisine"
+    ],
+    "trivia": [
+      "Lexington has hosted several international events and festivals",
+      "The public transportation system in Lexington is one of the best in USA"
+    ]
+  }
+]
